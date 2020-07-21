@@ -9,8 +9,8 @@ Just some tests with git flow, and [git-flow plugin](https://github.com/nvie/git
 </p>
 
 # Useful links
-http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
-https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
-https://www.youtube.com/watch?v=oweffeS8TRc
-https://www.youtube.com/watch?v=rExSb3tcHe4
-https://www.youtube.com/watch?v=wzxBR4pOTTs
+http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html <br>
+https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow <br>
+https://www.youtube.com/watch?v=oweffeS8TRc <br>
+https://www.youtube.com/watch?v=rExSb3tcHe4 <br>
+https://www.youtube.com/watch?v=wzxBR4pOTTs <br>
